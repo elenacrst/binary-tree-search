@@ -7,7 +7,7 @@ You may also search a value in the existing tree.
 
 Preview:
 
-!(https://i.imgur.com/DPNWBnX.jpg)
+![Preview](https://i.imgur.com/DPNWBnX.jpg)
 
 
 The chapters covered in this app include: List and ArrayList data structures, RecyclerView, custom Adapter and ViewHolder, AlertDialog, 
